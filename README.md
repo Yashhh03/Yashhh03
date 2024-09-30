@@ -2,17 +2,28 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yashhh03&label=Profile%20views&color=0e75b6&style=flat" alt="yashhh03" /> </p>
 
-<!--
-**Yashhh03/Yashhh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning new things is important to me. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects. I also love traveling, playing video games, and exploring new music.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming/Scripting Languages worked with:** C++, JavaScript, Java, Python
+- **Frontend Development:** React.js, Next.js
+- **Backend Development:** Node.js, Express
+- **Databases:** MySQL, MongoDB and PostgreSQL
+- **Backend Operations:** Proficient in developing complex APIs.
+- **Version Control:** Git / GitHub 
+
+  
+## 👨🏻‍💻 Current Learning Goals
+
+- Solve more DSA
+- Building New Projects
+
+## 🧑🏻‍🎨 When I'm Not Coding
+
+- **Gaming**: Playing different video games.
+- **Cricket**: Enjoying the thrill of the game.
+
+## 🤝 Lets Connect
+I’m eager to connect with fellow enthusiasts via [Email](mailto:yashsurya8888@gmail.com), [LinkedIn](https://www.linkedin.com/in/yash-suryawanshi-b92265252/) and [Twitter](https://x.com/Yashhh03_). Let’s chat about the projects I’m tackling, explore freelance opportunities, and see if there’s potential for collaboration!
+
