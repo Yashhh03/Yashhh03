@@ -19,10 +19,6 @@ Learning new things is important to me. I always aim for the best code quality a
 - Solve more DSA
 - Building New Projects
 
-## 🧑🏻‍🎨 When I'm Not Coding
-
-- **Gaming**: Playing different video games.
-- **Cricket**: Enjoying the thrill of the game.
 
 ## 🤝 Lets Connect
 I’m eager to connect with fellow enthusiasts via [Email](mailto:yashsurya8888@gmail.com), [LinkedIn](https://www.linkedin.com/in/yash-suryawanshi-b92265252/) and [Twitter](https://x.com/Yashhh03_). Let’s chat about the projects I’m tackling, explore freelance opportunities, and see if there’s potential for collaboration!
